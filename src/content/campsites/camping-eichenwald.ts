@@ -40,7 +40,7 @@ const campingEichenwald: CampsiteConfig = {
     {
       title: "Eigene Stamser Stub'n",
       text: "Regionale Küche und ein Gastgarten mit Weitblick über das Inntal — gleich am Platz.",
-      image: { src: `${IMG}/gallery-0ea93b914d.webp`, alt: "Gastgarten des Restaurants am Camping Eichenwald mit Bergblick" },
+      image: { src: `${IMG}/gallery-23a991ec3c.webp`, alt: "Gastgarten der Stamser Stub'n mit Biergarten und roten Geranien" },
     },
   ],
 
@@ -69,7 +69,7 @@ const campingEichenwald: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-2151ee9e5f.webp`, alt: "Tiroler Bergpanorama über dem Camping Eichenwald" },
+    image: { src: `${IMG}/gallery-72fd206947.webp`, alt: "Campingplatz Eichenwald mit Blick ins Inntal und auf die Tiroler Berge" },
     line: "Tiroler Bergpanorama, so weit das Auge reicht.",
   },
 
@@ -86,17 +86,17 @@ const campingEichenwald: CampsiteConfig = {
       {
         title: "Stellplätze mit Bergblick",
         text: "Viele Plätze öffnen sich direkt zum Panorama der verschneiten Tiroler Gipfel — morgens inklusive.",
-        image: { src: `${IMG}/gallery-82e1911c06.webp`, alt: "Stellplatz mit Blick auf die verschneiten Tiroler Berge" },
+        image: { src: `${IMG}/gallery-5709493d9b.webp`, alt: "Stellplätze mit Panoramablick auf die Tiroler Berge und das Inntal" },
       },
       {
         title: "Gemütliche Kaminstube",
         text: "Im rustikalen Lokal mit offenem Kamin und Weinstube sitzt du auch an kühlen Abenden warm.",
-        image: { src: `${IMG}/gallery-765c5283f6.webp`, alt: "Gemütliche Stube am Camping Eichenwald" },
+        image: { src: `${IMG}/gallery-5dda72c077.webp`, alt: "Gemütliche Stub'n mit rustikaler Holzeinrichtung und Weinstube" },
       },
       {
         title: "Spiel, Sport & Unterhaltung",
         text: "Billard, Tischtennis und Tischfußball sowie Grill- und Unterhaltungsabende sorgen für Kurzweil.",
-        image: { src: `${IMG}/gallery-ca12407ae4.webp`, alt: "Überdachter Spiel- und Aufenthaltsbereich mit Tischtennis" },
+        image: { src: `${IMG}/gallery-a72e96e0ee.webp`, alt: "Tischtennis im Freien am Camping Eichenwald" },
       },
       {
         title: "Brötchenservice & Empfang",
@@ -120,14 +120,14 @@ const campingEichenwald: CampsiteConfig = {
         name: "Bungalow",
         kind: "2–4 Personen",
         text: "Komplett eingerichteter Bungalow mit Küche, eigenem WC, Dusche und Abstellraum — startklar für die Familie.",
-        image: { src: `${IMG}/accommodation-4e7086fbc0.webp`, alt: "Mietbungalow am Camping Eichenwald" },
+        image: { src: `${IMG}/accommodation-f755481528.webp`, alt: "Schlafzimmer im Bungalow am Camping Eichenwald" },
         features: ["Vollständige Küche", "Eigenes WC & Dusche", "ab € 480/Woche"],
       },
       {
         name: "Mobilhome",
         kind: "2–6 Personen",
         text: "Geräumiges Mobilhome für bis zu sechs Personen mit voller Küche, WC, Dusche und eigenem Waschraum.",
-        image: { src: `${IMG}/gallery-ff2a1ead69.webp`, alt: "Mobilhome am Camping Eichenwald" },
+        image: { src: `${IMG}/gallery-3b93a8eeb6.webp`, alt: "Mobilhome mit Terrasse und Bergblick am Camping Eichenwald" },
         features: ["Bis 6 Personen", "Küche & Waschraum", "ab € 550/Woche"],
       },
     ],
@@ -141,7 +141,7 @@ const campingEichenwald: CampsiteConfig = {
       {
         title: "Großer Kinderspielplatz",
         text: "Spielhaus, Rutsche und Schaukel mitten im Grünen — gleich neben den Stellplätzen zum Austoben.",
-        image: { src: `${IMG}/gallery-39afc3d87a.webp`, alt: "Kinderspielplatz am Camping Eichenwald" },
+        image: { src: `${IMG}/gallery-66a19fcbba.webp`, alt: "Kind auf dem Klettergerüst mit roter Rutsche am Spielplatz des Camping Eichenwald" },
       },
       {
         title: "Hüpfburg & Animation",
@@ -184,7 +184,7 @@ const campingEichenwald: CampsiteConfig = {
       { src: `${IMG}/gallery-d126256024.webp`, alt: "Stellplatz mit Wohnwagen und blühendem Baum im Frühling" },
       { src: `${IMG}/gallery-a0ebaa8acc.webp`, alt: "Wohnwagen am Platz vor verschneiten Tiroler Gipfeln" },
       { src: `${IMG}/gallery-87ffe2433f.webp`, alt: "Gastgarten des Restaurants mit Blumen und altem Baum" },
-      { src: `${IMG}/gallery-feee786b97.webp`, alt: "Gemütlicher Wohnbereich in einem Bungalow" },
+      { src: `${IMG}/gallery-aa5c57dc92.webp`, alt: "Vollausgestattete Küche im Bungalow am Camping Eichenwald" },
     ],
   },
 
